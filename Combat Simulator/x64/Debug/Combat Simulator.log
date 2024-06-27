@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\chief\source\repos\Combat Simulator\Combat Simulator\Source.cpp(121,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chief\source\repos\Combat Simulator\Combat Simulator\Source.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Combat Simulator.vcxproj -> C:\Users\chief\source\repos\Combat Simulator\x64\Debug\Combat Simulator.exe
