@@ -1,4 +1,4 @@
-# Menu Based Combat Simulator
+# Menu Driven Combat Simulator
 
 Fighting Simulator is a simple, menu-driven combat game written in C++. The player engages in turn-based combat against an enemy, with options to attack or heal. Random number generation determines the outcomes of actions.
 
